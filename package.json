@@ -1,0 +1,8 @@
+{
+  "name": "intern-example",
+  "author": "paolo Nicodemo <paolonicodemo@gmail.com",
+  "version": "0.0.1",
+  "devDependencies": {
+    "intern": "~1.1.0"
+  }
+}
